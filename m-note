@@ -1,0 +1,5 @@
+npm i react-router-dom  @mui/material @emotion/react @emotion/styled @mui/icons-material
+npm create vite@latest ./
+
+go to https://fontsource.org/ to intall font
+npm install @fontsource/poppins
