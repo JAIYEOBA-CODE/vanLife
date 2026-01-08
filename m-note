@@ -3,3 +3,6 @@ npm create vite@latest ./
 
 go to https://fontsource.org/ to intall font
 npm install @fontsource/poppins
+
+
+npm i react-router-dom axios @tanstack/react-query
